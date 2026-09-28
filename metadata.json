@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Vehicle Service Management System",
+  "description": "A cloud-based vehicle service management web application designed for AWS deployment with EC2, Elastic Beanstalk, RDS PostgreSQL, and S3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
